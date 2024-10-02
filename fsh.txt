@@ -1,0 +1,21 @@
+1. /bin: contains user command binaries eg. ls,cp,mv
+2. /sbin: contains system binaries eg. fsck, reboot
+3. /lib: contains library files and also device drivers
+4. /opt: contains optional files related to additional software packages
+
+5. /boot: contains files needed to boot the system eg. GRUB
+6. /etc: contains system configuration files eg. passwd, shadow
+
+7. /home: contains home directories of system users (non-root)
+8. /root: home directory of root user
+9. /media: mounting point for removable media such as USB
+10. /mnt: mounting point for different filesystems
+11. /tmp: contains temporary files created by processes
+
+12. /dev: contains device files that represent hardware
+13. /proc: contains files that provide info about running process and system
+14. /sys: contains info and config options for sys and h/w devices
+
+15. /usr: contains user-installed software and files
+
+16. /var: contains variable data like logs
